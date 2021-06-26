@@ -30,16 +30,10 @@ We will analyze trends / answer questions about
 https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario-by-public-health-unit-phu/resource/d1bfe1ad-6575-4352-8302-09ca81f7ddfc
 
 # Folders and Contents
-|_Hinda Analysis
-|
-|_1,2,3
-   |
-   |_Images
-   |_MatplotLib_activities.ipynb
 
 Hinda Analysis
----Images
----Jupyter File
+--- Images
+--- Jupyter File
 ------Gender Analysis
 ------Geographic Location
 ------Case Outcome Analysis
