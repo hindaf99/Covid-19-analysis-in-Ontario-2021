@@ -1,5 +1,5 @@
-# Healthcare-Project
-# Bootcamp Project One: An Analysis of COVID-19 Case Trends in Ontario
+# Project 1
+# An Analysis of COVID-19 Case Trends in Ontario
 
 Hinda and Rachel
 
