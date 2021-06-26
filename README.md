@@ -33,11 +33,11 @@ https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario-by-public-he
 # Folders and Contents
 
 Hinda Analysis
---- Images
---- Jupyter File
-------Gender Analysis
-------Geographic Location
-------Case Outcome Analysis
+--- Images  
+--- Jupyter File  
+------Gender Analysis  
+------Geographic Location  
+------Case Outcome Analysis  
 
 RT_Analysis
 ---Images RT
