@@ -15,9 +15,9 @@ We will analyze trends / answer questions about
 
 Research Questions
 - Which gender is most likely to get COVID?
-Which age group is most likely to get COVID?
-How many positive cases in each city?
-Which month and day had the most COVID cases?
+- Which age group is most likely to get COVID?
+- How many positive cases in each city?
+- Which month and day had the most COVID cases?
 What is the average number of cases of COVID per month?
 How many people died from COVID? 
 How many people died from COVID in each city?
