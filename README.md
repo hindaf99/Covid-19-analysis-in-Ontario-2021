@@ -5,12 +5,12 @@ Hinda and Rachel
 # Project Description
 We want to take the COVID-19 cases data from all cases in Ontario and find trends within it
 We will analyze trends / answer questions about
-  Gender
-  Age
-  Geographic Location
-  Date of Infection
-  Case Outcomes
-  Case Acquisition
+- Gender
+- Age
+- Geographic Location
+- Date of Infection
+- Case Outcomes
+- Case Acquisition
 
 
 # Research Questions
