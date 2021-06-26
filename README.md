@@ -2,8 +2,9 @@
 # Bootcamp Project One: An Analysis of COVID-19 Case Trends in Ontario
 
 Hinda and Rachel
+
 # Project Description
-We want to take the COVID-19 cases data from all cases in Ontario and find trends within it
+We want to take the COVID-19 cases data from all cases in Ontario and find trends within it.
 We will analyze trends / answer questions about
 - Gender
 - Age
