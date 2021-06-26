@@ -46,10 +46,12 @@ People got COVID from travel most often in the first 3 months of the pandemic vs
 Most Cases were due to being in close contact with a person who had COVID   
 
 Gender 
+
 The number of males and females are pretty close to being 50/50. 
 There were also 0.7% of other cases where gender was not recorded or non-binary
 
 Geographic location
+
 Toronto makes up the largest number of positive cases at over a quarter (164,341 cases)
 The largest number of confirmed cases is in Mississauga with 109,148 of cases
 
