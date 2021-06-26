@@ -30,6 +30,20 @@ We will analyze trends / answer questions about
 # Dataset
 https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario-by-public-health-unit-phu/resource/d1bfe1ad-6575-4352-8302-09ca81f7ddfc
 
+# Findings 
+Age Demographic  
+Those aged 39 and under are most likely to get COVID-19 and have made up 53.5% of all COVID-19 cases in Ontario  
+Those in their 20s are most liklet to get COVID-19  
+
+Time and Date  
+Day with most cases: April 14th 2021 with 5069 cases  
+Month with most cases: April 2021 with 115,388 cases  
+Average month cases 2020: 15,618 cases  
+Average month cases 2021: 59,076 cases  
+
+Case Acquisition  
+People got COVID from travel most often in the first 3 months of the pandemic vs the least often in the last 3 months of the pandemic  
+Most Cases were due to being in close contact with a person who had COVID   
 # Folders and Contents
 READ ME file  
 
