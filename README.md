@@ -14,7 +14,7 @@ We will analyze trends / answer questions about
 
 
 Research Questions
-Which gender is most likely to get COVID?
+- Which gender is most likely to get COVID?
 Which age group is most likely to get COVID?
 How many positive cases in each city?
 Which month and day had the most COVID cases?
@@ -34,16 +34,16 @@ Rough breakdown of tasks
 Folders and Contents
 
 Hinda Analysis
-	Images
-	Jupyter File
-		Gender Analysis
-    Geographic Location
-		Case Outcome Analysis
+Images
+Jupyter File
+Gender Analysis
+Geographic Location
+Case Outcome Analysis
 
 RT_Analysis
-    Images RT
-	  covid_analysis_RT (Jupyter File)
-		  Data Cleaning
-		  Age Demographics Analysis
-		  Time and Date Analysis
-	  	Case Acquisition Analysis
+Images RT
+covid_analysis_RT (Jupyter File)
+Data Cleaning
+Age Demographics Analysis
+Time and Date Analysis
+Case Acquisition Analysis
