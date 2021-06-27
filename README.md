@@ -66,9 +66,9 @@ READ ME file
 
 gitignore  
 
-Hinda Analysis  
---- Images  
---- Jupyter File  
+HF_Analysis  
+--- Images HF  
+--- covid_analysis_HF (Jupyter File) 
 ------Gender Analysis  
 ------Geographic Location  
 ------Case Outcome Analysis  
