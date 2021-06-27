@@ -49,13 +49,11 @@ Gender
 The number of males and females are pretty close to being 50/50. 
 There were also 0.7% of other cases where gender was not recorded or non-binary
 
-Geographic location
-
+Geographic location          
 Toronto makes up the largest number of positive cases at over a quarter (164,341 cases)
 The largest number of confirmed cases is in Mississauga with 109,148 of cases
 
-Case outcome 
-
+Case outcome        
 Toronto has the largest number of deaths with 3,434 of cases followed by Newmarket with 789 of cases
 97.6% of all the positive cases has been resolved in Ontario while 1.7% of cases are still hospitalised
 0.7% is the percentage of deaths which means 9,007 people has not survived the virus
