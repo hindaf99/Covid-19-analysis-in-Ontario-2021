@@ -45,8 +45,7 @@ Case Acquisition
 People got COVID from travel most often in the first 3 months of the pandemic vs the least often in the last 3 months of the pandemic  
 Most Cases were due to being in close contact with a person who had COVID   
 
-Gender
-
+Gender         
 The number of males and females are pretty close to being 50/50. 
 There were also 0.7% of other cases where gender was not recorded or non-binary
 
