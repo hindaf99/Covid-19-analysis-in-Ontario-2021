@@ -1,5 +1,5 @@
-# Project 1
-# An Analysis of COVID-19 Case Trends in Ontario
+
+An Analysis of COVID-19 Case Trends in Ontario
 
 Hinda and Rachel
 
